@@ -25,4 +25,4 @@
   
 - 结果
 
-  ![results](experiment1\results.jpg)
+  ![results](experiment1\\results.jpg)
