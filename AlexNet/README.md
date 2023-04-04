@@ -53,4 +53,4 @@
   ![results](result.jpg)
   
   - flower
-  ![results](flower\\result.jpg)
+  ![results](flower/result.jpg)
